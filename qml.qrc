@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CalcButton.qml</file>
+        <file>Term.qml</file>
+    </qresource>
+</RCC>
